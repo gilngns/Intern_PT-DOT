@@ -12,21 +12,8 @@ Aplikasi ini dibangun menggunakan Laravel dan memungkinkan pengguna untuk:
 
 Berikut adalah struktur tabel yang digunakan dalam aplikasi ini:
 
-- **Tabel `users`**:
-    - `id`: Integer, Primary Key
-    - `username`: String
-    - `email`: String,
-    - `password`: String
 
-- **Tabel `categories`**:
-    - `id`: Integer, Primary Key
-    - `name`: String, 
-
-- **Tabel `posts`**:
-    - `id`: Integer, Primary Key
-    - `title`: String
-    - `content`: Text
-    - `category_id`: Integer, Foreign Key (ke tabel `categories`)
+![Desain Database](https://github.com/user-attachments/assets/1dd02981-9d90-4f63-aeb5-f670866cf9cd)
 
 ## Screenshot Aplikasi
 
