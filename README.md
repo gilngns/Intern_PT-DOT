@@ -30,7 +30,7 @@ Berikut adalah beberapa screenshot dari aplikasi:
 Proyek ini menggunakan beberapa dependency utama:
 
 **Framework dan Library yang Digunakan**:
-- **PHP** (versi X.X)
+- **PHP** (versi 8.2.4)
 - **Laravel** (versi 11)
 - **MySQL** (untuk database)
 - **Bootstrap** (untuk frontend styling)
